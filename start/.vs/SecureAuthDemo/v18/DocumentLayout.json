@@ -1,9 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\start\\",
+  "WorkspaceRootPath": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\start\\secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\configuration\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\configuration\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\secureauthdemo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\secureauthdemo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\migrations\\20251119015002_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\migrations\\20251119015002_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,66 +34,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:4:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:44:53.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:07:56.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\start\\SecureAuthDemo.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Program.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Program.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:02:01.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251119015002_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Migrations\\20251119015002_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Migrations\\20251119015002_InitialCreate.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Migrations\\20251119015002_InitialCreate.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Migrations\\20251119015002_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:59:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecureAuthDemo.Web",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
+              "RelativeToolTip": "SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T07:54:58.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Program.cs",
               "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\start\\SecureAuthDemo.Web\\Program.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Program.cs",
               "RelativeToolTip": "SecureAuthDemo.Web\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T14:24:40.961Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 958,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

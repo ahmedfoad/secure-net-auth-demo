@@ -1,8 +1,11 @@
-namespace SecureAuthDemo.Api.Dtos
+using System.ComponentModel.DataAnnotations;
+
+namespace SecureAuthDemo.Api.Dtos;
+
+public class RegisterRequest
 {
-    public class RegisterRequest
-    {
-        public string Email { get; set; } = string.Empty;
-        public string Password { get; set; } = string.Empty;
-    }
+    [Required]
+    public string Email { get; set; } = string.Empty;
+    [Required]
+    public string Password { get; set; } = string.Empty;
 }

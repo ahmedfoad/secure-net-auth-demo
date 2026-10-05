@@ -91,9 +91,6 @@ app.MapPost("/api/auth/register", async (
     UserManager<IdentityUser> userManager,
     ApplicationDbContext db) =>
 {
-    if (string.IsNullOrWhiteSpace(req.Email) || string.IsNullOrWhiteSpace(req.Password))
-        return Results.BadRequest(new { error = "Email and Password are required" });
-
     var user = new IdentityUser { UserName = req.Email, Email = req.Email };
     var result = await userManager.CreateAsync(user, req.Password);
 
@@ -114,20 +111,15 @@ app.MapPost("/api/auth/login", async (
     SignInManager<IdentityUser> signInManager,
     ITokenService tokenService) =>
 {
-    if (string.IsNullOrWhiteSpace(req.Email) || string.IsNullOrWhiteSpace(req.Password))
-        return Results.BadRequest(new { error = "Email and Password are required" });
-
     var user = await userManager.FindByEmailAsync(req.Email);
     if (user is null)
     {
-        // INCORRECT: Leaky error message reveals user does not exist
-        return Results.BadRequest(new { error = "User does not exist" });
+        return Results.BadRequest(new { error = "Invalid Credentials" });
     }
 
     var passwordValid = await userManager.CheckPasswordAsync(user, req.Password);
     if (!passwordValid)
-        // INCORRECT: Leaky error message reveals password invalid vs. user not found
-        return Results.BadRequest(new { error = "Invalid password" });
+        return Results.BadRequest(new { error = "Invalid Credentials" });
 
     var roles = await userManager.GetRolesAsync(user);
     var token = tokenService.CreateToken(user, roles);
@@ -187,9 +179,6 @@ app.MapPost("/api/auth/insecure-login", (
     LoginRequest req,
     ITokenService tokenService) =>
 {
-    if (string.IsNullOrWhiteSpace(req.Email) || string.IsNullOrWhiteSpace(req.Password))
-        return Results.BadRequest(new { error = "Email and Password are required" });
-
     if (!InsecureAuthStore.ValidateCredentials(req.Email, req.Password))
     {
         // INCORRECT: Verbose error helps attackers enumerate valid accounts
