@@ -22,7 +22,12 @@ namespace SecureAuthDemo.Api.Auth
             var keyString = jwtSection["Key"] ?? string.Empty;
             var issuer = jwtSection["Issuer"];
             var audience = jwtSection["Audience"];
-            var expiresDays = int.TryParse(jwtSection["ExpiresDays"], out var d) ? d : 1;
+            var expiresHours = int.TryParse(jwtSection["ExpiresHours"], out var d) ? d : 1;
+
+            if(keyString is null || keyString == string.Empty)
+            {
+                throw new InvalidOperationException("JWT key is not configured");
+            }
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(keyString));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -32,6 +37,7 @@ namespace SecureAuthDemo.Api.Auth
                 new Claim(JwtRegisteredClaimNames.Sub, user.Id),
                 new Claim(JwtRegisteredClaimNames.Email, user.Email ?? string.Empty),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                new Claim(JwtRegisteredClaimNames.Iat, DateTimeOffset.UtcNow.ToUnixTimeSeconds().ToString() , ClaimValueTypes.Integer64),
                 new Claim(ClaimTypes.NameIdentifier, user.Id)
             };
 
@@ -44,7 +50,7 @@ namespace SecureAuthDemo.Api.Auth
                 issuer: issuer,
                 audience: audience,
                 claims: claims,
-                expires: DateTime.UtcNow.AddDays(expiresDays),
+                expires: DateTime.UtcNow.AddHours(expiresHours),
                 signingCredentials: creds
             );
 

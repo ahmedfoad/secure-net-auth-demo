@@ -3,28 +3,91 @@
   "WorkspaceRootPath": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\configuration\\smtpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\configuration\\smtpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\configuration\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\configuration\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\secureauthdemo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\secureauthdemo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\migrations\\20251119015002_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\migrations\\20251119015002_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\afoad\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1ca0d97-31b7-44f7-9921-b242cf8f1833\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\secureauthdemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\secureauthdemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\wwwroot\\js\\qr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\wwwroot\\js\\qr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\wwwroot\\lib\\qrcode.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\wwwroot\\lib\\qrcode.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\configuration\\webidentityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\configuration\\webidentityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\data\\webapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\data\\webapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.web\\data\\webapplicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C98445-7374-4484-B0B7-B0C121F0AA89}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\data\\webapplicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\work\\ahmed\\projects\\secure-net-auth-demo\\start\\secureauthdemo.api\\configuration\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\configuration\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +97,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,81 +133,278 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
-              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
-              "RelativeToolTip": "SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAWwJoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T08:44:53.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IdentitySeeder.cs",
-              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
-              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
-              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
-              "RelativeToolTip": "SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T08:07:56.079Z",
+              "WhenOpened": "2026-10-06T08:29:02.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Program.cs",
-              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Program.cs",
-              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Program.cs",
-              "RelativeToolTip": "SecureAuthDemo.Api\\Program.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAswHMAAAABAAAAAAAAAA==",
+              "Title": "SmtpConfiguration.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Configuration\\SmtpConfiguration.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Configuration\\SmtpConfiguration.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Configuration\\SmtpConfiguration.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Configuration\\SmtpConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T08:02:01.617Z",
+              "WhenOpened": "2026-10-06T08:13:23.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20251119015002_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Migrations\\20251119015002_InitialCreate.cs",
-              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Migrations\\20251119015002_InitialCreate.cs",
-              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Migrations\\20251119015002_InitialCreate.cs",
-              "RelativeToolTip": "SecureAuthDemo.Api\\Migrations\\20251119015002_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Services\\EmailSender.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Services\\EmailSender.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T07:59:35.365Z",
+              "WhenOpened": "2026-10-06T08:10:40.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SecureAuthDemo.Web",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Program.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Program.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAWwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:24:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\appsettings.json",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\appsettings.json",
+              "RelativeToolTip": "SecureAuthDemo.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T15:43:23.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecureAuthDemo.Web.csproj",
               "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
               "RelativeDocumentMoniker": "SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
               "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
               "RelativeToolTip": "SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-05T07:54:58.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Program.cs",
-              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Program.cs",
-              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Program.cs",
-              "RelativeToolTip": "SecureAuthDemo.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:24:40.961Z",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SecureAuthDemo.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-06T07:41:19.757Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Program.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Program.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwCUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:02:01.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\appsettings.json",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\appsettings.json",
+              "RelativeToolTip": "SecureAuthDemo.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T15:43:40.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T15:43:15.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnableAuthenticator.cshtml",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T14:08:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SecureAuthDemo.Api.csproj",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj",
+              "RelativeToolTip": "SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T15:53:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "qr.js",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\wwwroot\\js\\qr.js",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\wwwroot\\js\\qr.js",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\wwwroot\\js\\qr.js",
+              "RelativeToolTip": "SecureAuthDemo.Web\\wwwroot\\js\\qr.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-05T14:07:24.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\afoad\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1ca0d97-31b7-44f7-9921-b242cf8f1833\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\afoad\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1ca0d97-31b7-44f7-9921-b242cf8f1833\\secrets.json",
+              "ToolTip": "C:\\Users\\afoad\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1ca0d97-31b7-44f7-9921-b242cf8f1833\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\afoad\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1ca0d97-31b7-44f7-9921-b242cf8f1833\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T15:53:49.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Auth\\TokenService.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Auth\\TokenService.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Auth\\TokenService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:43:45.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "qrcode.js",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\wwwroot\\lib\\qrcode.js",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\wwwroot\\lib\\qrcode.js",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\wwwroot\\lib\\qrcode.js",
+              "RelativeToolTip": "SecureAuthDemo.Web\\wwwroot\\lib\\qrcode.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-05T13:59:37.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebIdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Configuration\\WebIdentitySeeder.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Configuration\\WebIdentitySeeder.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Configuration\\WebIdentitySeeder.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Configuration\\WebIdentitySeeder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:57:55.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Data\\WebApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Data\\WebApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Data\\WebApplicationDbContextFactory.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Data\\WebApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:52:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Data\\WebApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Data\\WebApplicationDbContext.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Web\\Data\\WebApplicationDbContext.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Data\\WebApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:52:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Dtos\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Dtos\\RegisterRequest.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Dtos\\RegisterRequest.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Dtos\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:48:29.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Dtos\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:44:53.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
+              "ToolTip": "C:\\Work\\Ahmed\\Projects\\secure-net-auth-demo\\start\\SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
+              "RelativeToolTip": "SecureAuthDemo.Api\\Configuration\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:07:56.079Z"
             }
           ]
         }

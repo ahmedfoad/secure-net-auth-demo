@@ -49,13 +49,13 @@ builder.Services.AddAuthentication(options =>
     {
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key)),
-        ValidateIssuer = false, // INCORRECT: Should validate issuer
-        ValidateAudience = false, // INCORRECT: Should validate audience
-        ValidateLifetime = false, // INCORRECT: Accepts expired tokens (teaching sample)
+        ValidateIssuer = true,  
+        ValidateAudience = true, 
+        ValidateLifetime = true,
         ClockSkew = TimeSpan.Zero
     };
-    // INCORRECT: Allowing non-HTTPS metadata fetching
-    options.RequireHttpsMetadata = false; // Should be true in production
+
+    //options.RequireHttpsMetadata = true;
 });
 
 builder.Services.AddAuthorization(options =>

@@ -17,6 +17,9 @@ using Microsoft.EntityFrameworkCore;
 using SecureAuthDemo.Web.Data;
 using SecureAuthDemo.Web.Authorization;
 using SecureAuthDemo.Web.Configuration;
+using System.Net.Mail;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using SecureAuthDemo.Web.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +29,10 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 
 builder.Services.AddDbContext<WebApplicationDbContext>(options =>
     options.UseSqlite(connectionString));
+
+// Build SMTP Configuration & Register
+var test = builder.Configuration.GetSection("Smtp");
+builder.Services.Configure<SmtpConfiguration>(builder.Configuration.GetSection("Smtp"));
 
 // Configure ASP.NET Core Identity with TOTP MFA support
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
@@ -38,8 +45,8 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
     options.Password.RequireNonAlphanumeric = false;
 
     // Sign-in configuration for MFA
-    options.SignIn.RequireConfirmedAccount = false; // For demo; set true for email confirmation
-    options.SignIn.RequireConfirmedEmail = false;   // Can be enabled for production
+    options.SignIn.RequireConfirmedAccount = true; // For demo; set true for email confirmation
+    options.SignIn.RequireConfirmedEmail = true;   // Can be enabled for production
 
     // Enable token providers for TOTP
     options.Tokens.AuthenticatorTokenProvider = TokenOptions.DefaultAuthenticatorProvider;
@@ -47,6 +54,9 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 .AddEntityFrameworkStores<WebApplicationDbContext>()
 .AddDefaultTokenProviders()
 .AddDefaultUI(); // Adds the default Identity UI (login, register, manage, etc.)
+
+
+builder.Services.AddTransient<IEmailSender, EmailSender>();
 
 // Custom authorization policy: require 2FA enabled
 builder.Services.AddAuthorization(options =>
